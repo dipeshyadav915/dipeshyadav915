@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipeshyadav915
+- 👋 Hi, I’m @dipeshyadav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning codeigniter
 - 💞️ I’m looking to collaborate on ...
